@@ -57,7 +57,7 @@ public class intakeIN_Command extends CommandBase {
 RobotContainer.mTransportSub.stopTransport();
 RobotContainer.mShooterSub.stopShooter();
 RobotContainer.mShooterSub.stopSpinning();
-RobotContainer.mShooterSub.setCoast();
+//RobotContainer.mShooterSub.setCoast();
   }
 
   // Returns true when the command should end.
